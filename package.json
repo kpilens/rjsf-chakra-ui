@@ -44,7 +44,8 @@
 		"tslib": "^2.0.0",
 		"typescript": "^3.5.3"
 	},
-	"publishConfig": {
+		"publishConfig": {
+			"registry": "https://npm.pkg.github.com/",
 		"access": "public"
 	},
 	"author": "Andrew Miracle <andrew@kpilens.com>",
