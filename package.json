@@ -1,6 +1,6 @@
 {
-	"name": "@rjsf/chakra-ui",
-	"version": "2.4.0",
+	"name": "@kpilens/rjsf-chakra-ui",
+	"version": "1.0.0",
 	"main": "dist/index.js",
 	"module": "dist/chakra-ui.esm.js",
 	"typings": "dist/index.d.ts",
@@ -47,10 +47,9 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"author": "Andrew Miracle <me@andrewmiracle.com>",
+	"author": "Andrew Miracle <andrew@kpilens.com>",
 	"contributors": [
-		"Lorenz Henk <lorenz.henk@cybertec.at>",
-		"Andrew Miracle <me@andrewmiracle.com>"
+		"Andrew Miracle <andrew@kpilens.com>"
 	],
 	"keywords": [
 		"Chakra UI",
